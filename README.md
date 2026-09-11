@@ -86,9 +86,9 @@ find solutions at all.
 
 ## Scope
 
-These are classifications of a **restricted family** of solutions. The Erdos-Straus conjecture
-itself is untouched and remains open. Neither result is proof-assistant formalized; both are exact
-integer computations with independent re-derivation from the closed form.
+These classify the solutions whose ordered denominators form an arithmetic or a geometric
+progression. Both are exact integer computations with independent re-derivation from the closed
+form, rather than proof-assistant formalizations.
 
 ## License
 
